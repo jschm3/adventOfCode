@@ -1,6 +1,6 @@
 package main
 
 func main() {
-	println(a())
-	println(b())
+	println(dayOnePartOne())
+	println(dayOnePartTwo())
 }

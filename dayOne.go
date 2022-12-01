@@ -9,7 +9,7 @@ import (
 	"strings"
 )
 
-func a() int {
+func dayOnePartOne() int {
 
 	in, err := ioutil.ReadFile("elves")
 	if err != nil {
@@ -36,7 +36,7 @@ func a() int {
 	return maximumCalories
 }
 
-func b() int {
+func dayOnePartTwo() int {
 	in, err := ioutil.ReadFile("elves")
 	if err != nil {
 		println(err.Error())
