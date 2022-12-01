@@ -9,7 +9,6 @@ Day one Solutions:
 
 Benchmarking:
 
-BenchmarkDayOnePartOne
-BenchmarkDayOnePartOne-8	     62049 ns/op
-BenchmarkDayOnePartTwo
-BenchmarkDayOnePartTwo-8	     72576 ns/op
+BenchmarkDayOnePartOne-8:  62049 ns/op
+
+BenchmarkDayOnePartTwo-8:  72576 ns/op
